@@ -11,5 +11,6 @@ namespace API.Data
 
         //manage tables
         public DbSet<AppUser> Users {get;set;}
+        
     }
 }
